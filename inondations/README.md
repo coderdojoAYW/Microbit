@@ -15,3 +15,8 @@ Et des câbles nécessaires
 Le câblage est le suivant :
 
 ![inondations](https://github.com/user-attachments/assets/14988268-9bb6-4287-b95a-8601d4fd567c)
+
+Après un premier projet avec une seule carte Micro:bit, le capteur de niveau sera connecté à une seconde carte Micro:bit avec une liaison radio par Bluetooth.
+
+![capteur distant](https://github.com/user-attachments/assets/0d58862e-eebc-48f0-92f4-25420e443c50)
+
