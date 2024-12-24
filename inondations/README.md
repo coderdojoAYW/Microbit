@@ -2,7 +2,7 @@
 
 Le matériel utilisé se trouve dans le [kit smart city d'Elecfreaks](https://www.elecfreaks.com/learn-en/microbitKit/smart_city_kit/index.html).
 
-IL s'agit :
+Il s'agit :
 
 - D'un capteur de niveau d'eau.
 - D'un servo.
