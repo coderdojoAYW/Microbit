@@ -15,7 +15,7 @@ Le câblage est le suivant :
 
 Ce projet a pour but de découvrir la manière de piloter les broches d'entrée-sortie en mode tout où rien, de créer des séquences temporelles, d'introduire les notions de boucles répétées un certain nombre de fois, de boucles infinies, de code déclenché par un évènement et de fonctions.
 
-Les manipulations proposées se trouvent [ici](carrefour.pdf).
+La fiche d'activité se trouve [ici](carrefour.pdf).
 
 Le code final du carrefour est également téléchargeable en extension .hex dans la liste de fichier en haut de page.
 
