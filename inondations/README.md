@@ -18,6 +18,8 @@ Le câblage est le suivant :
 
 ![inondations](https://github.com/user-attachments/assets/14988268-9bb6-4287-b95a-8601d4fd567c)
 
+La fiche d'activité se trouve [ici](Smartcities zone inondée.pdf).
+
 ### Projet complémentaire.
 
 Met en oeuvre une liaison radio pour recevoir des données d'un capteur distant.
@@ -27,4 +29,6 @@ Dans ce projet une seconde carte Micro:bit sera utilisé pour le capteur de nive
 En plus des périphériques utilisé dans le projet initial, ce projet nécessite 2 cartes Micro:bit et deux modules d'extrension io:bit.
 
 ![capteur distant](https://github.com/user-attachments/assets/0d58862e-eebc-48f0-92f4-25420e443c50)
+
+La fiche d'activité se trouve [ici](Smartcities zone inondée BT.pdf).
 
