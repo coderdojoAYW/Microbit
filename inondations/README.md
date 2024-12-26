@@ -18,7 +18,7 @@ Le câblage est le suivant :
 
 ![inondations](https://github.com/user-attachments/assets/14988268-9bb6-4287-b95a-8601d4fd567c)
 
-La fiche d'activité se trouve [ici](Smartcities zone inondée.pdf).
+La fiche d'activité se trouve [ici](Smartcities_zone_inondée.pdf).
 
 ### Projet complémentaire.
 
@@ -30,5 +30,5 @@ En plus des périphériques utilisé dans le projet initial, ce projet nécessit
 
 ![capteur distant](https://github.com/user-attachments/assets/0d58862e-eebc-48f0-92f4-25420e443c50)
 
-La fiche d'activité se trouve [ici](Smartcities zone inondée BT.pdf).
+La fiche d'activité se trouve [ici](Smartcities_zone_inondée_BT.pdf).
 
