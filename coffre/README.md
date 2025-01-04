@@ -22,5 +22,9 @@ Le câblage est le suivant :
 
 Lorsque quelqu'un s'approche du coffre, sa présence est détectée et une petite musique le guide vers le coffre. Ensuite c’est la magie qui va décider si le coffre s’ouvre ou non.
 
-La fiche d'activité se trouve [ici](coffre.pdf).
+En plus du mtériel de la prmière partie un servo sera utilisé.
+
+![coffre au trésor 2](https://github.com/user-attachments/assets/9cb24fe4-ab61-49b3-aa9f-48012039ec0e)
+
+La fiche des deux activités se trouve [ici](coffre.pdf).
 
