@@ -8,7 +8,7 @@ Il s'agit :
 
 - D'un capteur de distance de type sonar.
 - D'un afficheur OLED
-- Du module d'extrension io:bit.
+- Du module d'extension io:bit.
 - D'une carte Micro:bit v2.
 
 Et des câbles nécessaires.
@@ -22,9 +22,10 @@ Le câblage est le suivant :
 
 Lorsque quelqu'un s'approche du coffre, sa présence est détectée et une petite musique le guide vers le coffre. Ensuite c’est la magie qui va décider si le coffre s’ouvre ou non.
 
-En plus du mtériel de la prmière partie un servo sera utilisé.
+En plus du matériel de la première partie un servo sera utilisé.
 
 ![coffre au trésor 2](https://github.com/user-attachments/assets/9cb24fe4-ab61-49b3-aa9f-48012039ec0e)
 
 La fiche des deux activités se trouve [ici](coffre.pdf).
 
+Le code des deux projets se trouve dans le répertoire courant (en extension .hex)
