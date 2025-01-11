@@ -13,3 +13,6 @@ Deux exemples :
 - P0 est une broche qui peut être utilisée comme broche d'entrée-sortie à usage général (GPIO) ou comme sortie son vers des écouteurs.
 - P3 est une broche qui peut être utilisée comme broche d'entrée-sortie à usage général ou pour le contrôle de l'afficheur LED matriciel du Micro
 
+Certaines broches peuvent être utilisées en mode numérique ou en mode analogique, en entrée ou en sortie.
+
+[Ce document](/broches) indique les instructions à utiliser pour les différents modes.
