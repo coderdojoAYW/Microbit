@@ -15,4 +15,4 @@ Deux exemples :
 
 Certaines broches peuvent être utilisées en mode numérique ou en mode analogique, en entrée ou en sortie.
 
-[Ce document](/broches) indique les instructions à utiliser pour les différents modes.
+[Ce document](/broches.pdf) indique les instructions à utiliser pour les différents modes.
