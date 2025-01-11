@@ -18,3 +18,7 @@ Le câblage est le suivant :
 ![ventilation](https://github.com/user-attachments/assets/53de4847-e9fd-4986-a851-86a0d6959cf6)
 
 La fiche d'activité se trouve [ici](ventilation.pdf).
+
+![att](https://github.com/user-attachments/assets/f8c3fab9-c195-47d2-bf74-e965b5d9ede0)
+- Le capteur DHT11 met un certain temps pour fournir des valeurs correctes
+- Il faut éloigner le plus possible le moteur de la carte Micro:bit sinon il perturbe de manière électromagnétique le Micro:bit provoquant son reset.
