@@ -7,3 +7,12 @@
 - [Barrière de protection pour zone inondée](/inondations) : utilise le capteur de niveau d'eau, un servo, l'afficheur OLED et la carte d'extension io:bit du kit smart city d'Elecfreaks. Propose une version avec le capteur contrôlé par un deuxième Micro:bit avec liaison radio Bluetooth.
 - [Le coffre à l'anneau](/coffre) : utilise le sonar, l'afficheur OLED, un servo et la carte d'extension io:bit du kit smart city d'Elecfreaks.
 - [Ventilation d'un local humide](/ventilation) : utilise le capteur de température et d'humidité DHT11, une LED multi-couleurs (Néopixel), le moteur (pour le ventilateur), l'afficheur OLED et la carte d'extension sensor:bit du kit smart health d'Elecfreaks.
+
+## Informations générales sur le matériel et sur MakeCode.
+
+L'application MakeCode qui permet de créer les programmes avec des blocs, de simuler et charger sur la carte Micro:bit existe en deux versions :
+
+- On line, [ici](https://makecode.microbit.org/).
+- Off line, [avec ce lien pour télécharger l'application](https://makecode.microbit.org/offline-app).
+
+Les informations sur le hardware se trouvent [ici](/hardware).
