@@ -17,3 +17,4 @@ Le câblage est le suivant :
 
 ![ventilation](https://github.com/user-attachments/assets/53de4847-e9fd-4986-a851-86a0d6959cf6)
 
+La fiche d'activité se trouve [ici](ventilation.pdf).
