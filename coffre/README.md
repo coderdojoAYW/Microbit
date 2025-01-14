@@ -33,4 +33,4 @@ La fiche des deux activités se trouve [ici](coffre.pdf).
 
 Le code des deux projets se trouve dans le répertoire courant (en extension .hex)
 
-Un fichier stl pour l'impression 3D d'un support pour le sonar se trouve [ici](support sonar.stl).
+Un fichier stl pour l'impression 3D d'un support pour le sonar se trouve [ici](support_sonar.stl).
