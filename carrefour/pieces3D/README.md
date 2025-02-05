@@ -6,3 +6,4 @@ Ils ont été modifiés pour réaliser le signal à 2 feux des piétons.
 
 ![2signaux](https://github.com/user-attachments/assets/dfa78592-a6de-422b-a0be-323450973c77)
 
+Les fichiers stl pour impression 3D sont disponible dans la liste des fichiers.
