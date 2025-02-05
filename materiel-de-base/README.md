@@ -6,6 +6,4 @@ Pour celles et ceux qui souhaiterais acquérir du matériel pour débuter à dom
 - Une carte Micro:bit v2 par exemple le [kit de démarrage Micro:bit](https://www.gotronic.fr/art-kit-de-demarrage-micro-bit-v2-34689.htm).
 - Un PC avec le logiciel Codeblocks (gratuit)
 
-Les liens vont vers un des fournisseurs partenaire de Coderdojo Belgium, mais le matériel peut également se trouver chez d'autres fournisseurs.
-
-
+Les liens vont vers un des fournisseurs partenaire de Coderdojo Belgium, mais le matériel peut également se trouver chez de nombreux autres fournisseurs.
