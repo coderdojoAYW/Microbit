@@ -28,4 +28,4 @@ La fiche d'activité se trouve [ici](controle_pn.pdf).
 
 Le code final du carrefour est également téléchargeable en extension .hex dans la liste de fichier en haut de page.
 
-Ce projet peut être prétexte à de la conception 3D pour la réalisation du passage à niveau ([voir ici](/pieces3D)) et à la réalistion d'un environement pour l'y intégrer.
+Ce projet peut être prétexte à de la conception 3D pour la réalisation du passage à niveau ([voir ici](pieces3D)) et à la réalistion d'un environement pour l'y intégrer.
