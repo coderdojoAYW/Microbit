@@ -1,4 +1,4 @@
-## Passage pour piétons à un carrefour.
+## Passage à niveau.
 
 Le matériel utilisé se compose :
 
