@@ -29,11 +29,3 @@ La fiche d'activité se trouve [ici](controle_pn.pdf).
 Le code final du carrefour est également téléchargeable en extension .hex dans la liste de fichier en haut de page.
 
 Ce projet peut être prétexte à de la conception 3D pour la réalisation des feux et à la réalistion d'un environement pour intégrer les feux.
-
-Voici un exemple que nous avons réalisé:
-
-![pn3D](https://github.com/user-attachments/assets/9a4a4807-ae03-42b1-8de0-ff4f1fbc1b66)
-
-Les fichiers stl pour impression 3D sont disponible dans la liste des fichiers.
-
-
