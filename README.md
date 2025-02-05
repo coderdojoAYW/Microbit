@@ -1,6 +1,6 @@
 # Micro:bit
 ## Fiches d'applications Micro:bit pour le CoderDojo d'Aywaille
-[test](https://www.gotronic.fr/)
+
 ![logo](https://github.com/user-attachments/assets/464e3e83-34bb-4e73-9169-e8c662cdf79d)
 
 - [Projets simples avec des LEDs](/led) : plusiures projets simples pour se familiariser avec les LEDs et un projet complet pour réaliser un métronome.
