@@ -18,3 +18,7 @@ L'application MakeCode qui permet de créer les programmes avec des blocs, de si
 - Off line, [avec ce lien pour télécharger l'application](https://makecode.microbit.org/offline-app).
 
 Les informations sur le hardware se trouvent [ici](/hardware).
+
+## Si vous souhaitez débuter chez vous.
+
+Voici un [lien](/materiel-de-base) vers le matériel nécessaire. 
