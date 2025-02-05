@@ -1,4 +1,4 @@
-## Projet simples avec des LEDs.
+## Projets simples avec des LEDs.
 
 ![LEDs Octopus](https://github.com/user-attachments/assets/e7a02393-9650-47e0-9f50-e0fb392ea1a3)
 
