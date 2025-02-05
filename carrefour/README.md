@@ -19,7 +19,7 @@ La fiche d'activité se trouve [ici](carrefour.pdf).
 
 Le code final du carrefour est également téléchargeable en extension .hex dans la liste de fichier en haut de page.
 
-Ce projet peut être prétexte à de la conception 3D pour la réalisation des feux et à la réalistion d'un environement pour intégrer les feux.
+Ce projet peut être prétexte à de la conception 3D pour la réalisation des feux ([voir ici](pieces3D) et à la réalistion d'un environement pour intégrer les feux.
 
 Voici un exemple que nous avons réalisé:
 
