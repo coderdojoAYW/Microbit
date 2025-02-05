@@ -9,8 +9,10 @@ Les fichiers stl pour impression 3D sont disponible dans la liste des fichiers.
 Ils se composent :
 
 - D'un support pour le servo qui commande la barrière.
-- D'une barrière.
-- D'un signal en trois partie : poteau, cible, croix de Saint André.
+- D'une barrière (qui s'emboite dans un palonnier (fourni avec le servo).
+- D'un signal en trois partie : poteau, cible, croix de Saint André (à coller sur la cible).
 - D'une rampe d'accès avec emplacement pour le signal et le support de servo (à coller).
 
 Les élements peuvent être peint avec des feutres acryliques Posca.
+
+Il reste à ajouter des LEDS de 3mm (une blanche et deux rouges) avec les résistances de limitation de courant et les connecteur pour headers.
