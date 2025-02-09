@@ -10,6 +10,8 @@
 - [Ventilation d'un local humide](/ventilation) : utilise le capteur de température et d'humidité DHT11, une LED multi-couleurs (Néopixel), le moteur (pour le ventilateur), l'afficheur OLED et la carte d'extension sensor:bit du kit smart health d'Elecfreaks.
 - [Contrôle d'un passage à niveau](/pn) : utilise un feu de passage à niveau (une LED blanche et deux LEDs rouges), un servo pour le contrôle de la barrière, un détecteur de présence de train (miniature) ou un crash switch, ainsiqu'une carte d'extension du type Octopus:bit.
 
+- [Wonder Building Kit](/wonderbk)
+
 ## Informations générales sur le matériel et sur MakeCode.
 
 L'application MakeCode qui permet de créer les programmes avec des blocs, de simuler et charger sur la carte Micro:bit existe en deux versions :
