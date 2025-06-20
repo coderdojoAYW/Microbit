@@ -2,6 +2,7 @@
 ## Fiches d'applications Micro:bit pour le CoderDojo d'Aywaille
 
 ![logo](https://github.com/user-attachments/assets/464e3e83-34bb-4e73-9169-e8c662cdf79d)
+Mail de contact : [aywaille@coderdojobelgium.be](mailto:aywaille@coderdojobelgium.be)
 
 - [Projets simples avec des LEDs](/led) : plusiures projets simples pour se familiariser avec les LEDs et un projet complet pour réaliser un métronome.
 - [Passage pour piétons à un carrefour](/carrefour) : utilise un feu piétons avec 2 LEDS et un feu voitures avec 3 LEDs et une carte d'extension du type Octopus:bit.
