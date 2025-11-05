@@ -9,6 +9,6 @@ Pour celles et ceux qui souhaiteraient acquérir du matériel pour débuter à d
 L'application MakeCode qui permet de créer les programmes avec des blocs, de simuler et charger sur la carte Micro:bit existe en deux versions :
 
 - On line, [ici](https://makecode.microbit.org/).
-- Off line, [avec ce lien pour télécharger l'application](https://makecode.microbit.org/offline-app).
+- Off line, [avec ce lien pour télécharger l'application](https://apps.microsoft.com/detail/9nmqdq2xzkwk?hl=fr-ca&gl=US).
 
 Les liens concernant le matériel vont vers un des fournisseurs partenaire de Coderdojo Belgium, mais le matériel peut également se trouver chez de nombreux autres fournisseurs.
